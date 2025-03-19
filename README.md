@@ -11,7 +11,7 @@ If you need the IRAir dataset, please directly reach out to lizhaoxu@nudt.edu.cn
 
 ## Citation
 
-If the work or the code is helpful, please cite the paper:
+If the work is helpful, please cite the paper:
 ```
 @article{li2024specdetr,
   title = {A lightweight dark object detection network for infrared images},
