@@ -15,7 +15,7 @@ If the work is helpful, please cite the paper:
 ```
 @article{li2024specdetr,
   title = {A lightweight dark object detection network for infrared images},
-  author ={Li, Zhaoxu and Xu, Qingxu and An, Wei and He, Xu and Guo, Gaowei and Li, Miao and Ling, Qiang and Wang, Longguang and Xiao, Chao and Lin, Zaiping}
+  author ={Li, Zhaoxu and Xu, Qingyu and An, Wei and He, Xu and Guo, Gaowei and Li, Miao and Ling, Qiang and Wang, Longguang and Xiao, Chao and Lin, Zaiping}
  journal = {Journal of Infrared and Millimeter Waves},
  volume = {44},
  number = {2},
