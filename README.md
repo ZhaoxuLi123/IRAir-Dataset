@@ -13,7 +13,7 @@ If you need the IRAir dataset, please directly reach out to lizhaoxu@nudt.edu.cn
 
 If the work is helpful, please cite the paper:
 ```
-@article{li2024specdetr,
+@article{li2024irair,
   title = {A lightweight dark object detection network for infrared images},
   author ={Li, Zhaoxu and Xu, Qingyu and An, Wei and He, Xu and Guo, Gaowei and Li, Miao and Ling, Qiang and Wang, Longguang and Xiao, Chao and Lin, Zaiping}
  journal = {Journal of Infrared and Millimeter Waves},
